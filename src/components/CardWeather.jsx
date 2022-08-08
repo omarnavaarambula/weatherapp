@@ -37,7 +37,7 @@ if(isLoading){
     return <Loadingscreen/>
 } else {
     return (
-        <body background="/public/background-loader.jpeg">
+        <body background="/background.jpeg">
         <article className='center' >
        
         
