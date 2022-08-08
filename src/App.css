@@ -86,8 +86,3 @@ height: 100%;
     list-style: none;
     text-align: center;
   }
-  .fondoimg{
-    background-image: url("./public/background-loader.jpeg");
-    width: 100%;
-    height: 100%;
-  }
