@@ -37,7 +37,7 @@ if(isLoading){
     return <Loadingscreen/>
 } else {
     return (
-        <body background="/background.jpeg">
+        
         <article className='center' >
        
         
@@ -66,7 +66,7 @@ if(isLoading){
         </div>
         </div>
        
-        </article></body>
+        </article>
     )
 }
 
